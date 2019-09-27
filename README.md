@@ -1,2 +1,0 @@
-# ArquitecturaWeb
-Created with CodeSandbox
