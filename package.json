@@ -4,13 +4,14 @@
   "description": "Simple Node Sandbox",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/index.js localhost 8080"
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "Express": "3.0.1",
-    "morgan": "1.9.1"
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
-    "nodemon": "1.18.4"
+    "nodemon": "^1.19.2"
   }
 }
